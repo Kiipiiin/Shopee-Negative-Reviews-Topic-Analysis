@@ -2,6 +2,9 @@
 
 This project analyzes negative reviews of the Shopee app to identify recurring issues, trends across versions, and potential areas for improvement. The analysis uses topic modeling and trend tracking to uncover stable themes and version-specific spikes.
 
+**IMPORTANT**
+Viewing the code on GitHub doesn't seem to work, so here is the notebook link: https://colab.research.google.com/drive/19brTpocHHoF83fN5qE5lS93Bib6PWTmZ?usp=sharing
+
 ## Summary of Topics
 
 | Topic | Dominant Keywords | Trend | Interpretation | Notes |
